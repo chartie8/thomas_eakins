@@ -1,5 +1,5 @@
 .ve-header "Thomas Eakins and His Allegory" wc:Water_Nymph_%26_Bittern_Wallace_1930s.jpg
-Thomas Eakins (1844-1916) is an American late ninetheenth century realism painter. In the painting below, Eakins depicts American sculptor William Rush (1756-1833) observing a model as he carves his *Water Nymph and Bittern.* Curiously, Eakins painted two versions of this image. This one, a study, in 1876...
+Thomas Eakins (1844-1916) is an American late ninetheenth century realism painter. In the painting below, Eakins depicts American sculptor William Rush (1756-1833) observing a model as he carves his *Water Nymph and Bittern.* Curiously, Eakins has painted multiple studies of Rush and his model. Two of the most detailed versions include this one, in 1876...
 
 .ve-media wc:Thomas_Eakins_-_William_Rush_Carving_His_Allegorical_Figure_of_the_Schuylkill_River,_Study_-_1979.14.5_-_Yale_University_Art_Gallery.jpg
 
