@@ -7,3 +7,6 @@ Thomas Eakins (1844-1916) is an American late ninetheenth century painter and ph
 .ve-media wc:William_rush_carving_his_allegorical_figur_of_schuylkill_river_thomas_eakins.jpeg 
 
 As a painter, Thomas Eakins is known for his skillful realism and thoughtful storytelling. Throughout his professional career, Eakins worked from life, primarily with subjects from his hometown Philadelphia, PA. In this essay we will be comparing both paintings of William Rush, also a Philadelphia artist, *carving his allegorical figure of the Schuylkill River*... 
+
+#Section Title
+
