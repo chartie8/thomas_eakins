@@ -6,4 +6,4 @@ Thomas Eakins is a late ninetheenth century painter of realism. In this painting
 And this one, just one year later. 
 .ve-media wc:William_rush_carving_his_allegorical_figur_of_schuylkill_river_thomas_eakins.jpeg 
 
-As a panter, Thomas Eakins is known not only for his skillful realism, but 
+As a panter, Thomas Eakins is known for his skillful realism and thoughtfullness in his storytelling. In this essay I will be comparing both paintings while diving into his subject, William Rush, carving his allegorical figure of the Schuylkill River... 
