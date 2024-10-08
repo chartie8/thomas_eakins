@@ -16,4 +16,4 @@ Thomas Eakins focused the majority of his work on subject matter from his hometo
 
 .ve-media wc:Water_Nymph_%26_Bittern_Wallace_1930s.jpg right
 
-Rush's Water Nymph and Bittern was originally carved in 1825 for the Fairmount Waterworks. 
+In this example of one of Eakins' many studies of the figure, we can identify some key features of the pose. 
