@@ -10,7 +10,6 @@ As a painter, Thomas Eakins is known for his skillful realism and thoughtful sto
 .ve-media wc:Eakins_G109_Nymph_With_Bittern.jpg
 
 #Sketches From Life
-.ve-media https://iiif.juncture-digital.org/wc:Water_Nymph_
 
 .ve-media left
     - wc:Eakins_G109_Nymph_With_Bittern.jpg
