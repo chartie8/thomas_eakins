@@ -16,4 +16,4 @@ Thomas Eakins focused the majority of his work on subject matter from his hometo
 
 .ve-media wc:Water_Nymph_%26_Bittern_Wallace_1930s.jpg right
 
-In this example of one of Eakins' many studies of the figure, we can identify some key features of the pose. 
+In this example of one of Eakins' many studies of the figure, we can identify some key features of the pose in this gesture drawing. 
