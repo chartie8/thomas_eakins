@@ -13,8 +13,12 @@ As a painter, Thomas Eakins is known for his skillful realism and thoughtful sto
 
 .ve-media wc:Water_Nymph_%26_Bittern_Wallace_1930s.jpg left 
 
-Rush's Water Nymph and Bittern was originally carved in 1825 for the Fairmount Waterworks.  
+Rush's *Water Nymph and Bittern* was originally carved in 1825 for the Fairmount Waterworks.  
 
 .ve-media wc:Eakins_G109_Nymph_With_Bittern.jpg right 
 
 Curiously, Thomas Eakins produced many paintings and sketches of William Rush's *allegory of the Schuylkill River,* including the sculptor and his model, so it seems evident Rush and his work made a significant impact on Eakins. This sketch to the right shows a gesture drawing of the Nymph and Bittern sculpture from life.    
+
+.ve-media wc:'Self-portrait',_terracotta_sculpture_by_William_Rush,_1822.JPG left
+
+This terra cotta self portrait of William Rush, now at the Pennsylvania Academy of Fine Arts, was carved in 1822. There are other busts of Rush with a similar furrowed brow, an expression of concentration, which Eakins certainly applies to his own portrait of Rush as he is busy mid-sculpting. 
