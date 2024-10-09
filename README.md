@@ -9,7 +9,7 @@ One year later, he painted a second version, showing many of the same elements, 
 
 As a painter, Thomas Eakins is known for his skillful realism and thoughtful storytelling. Throughout his professional career, Eakins worked from life, primarily with subjects from his hometown Philadelphia, PA. This essay will ask *how* he came to these paintings packed with detail and narrative when his subject matter, William Rush, had passed four decades before their conception; it will also explore the *choices* he made for the differences between these two scenes painted one year apart.
 
-#Sketches From Life
+#Sketched From Life
 
 .ve-media wc:Water_Nymph_%26_Bittern_Wallace_1930s.jpg left 
 
