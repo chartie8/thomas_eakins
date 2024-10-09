@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This bronze casting of the Nymph and Bittern sculpture stands in place of its original at the Fairmount Water Works, Pennsylvania. As it is an exact copy, we can see what Eakins saw as he constructed his painting in his mind.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/129cbaecf06196fb3548bd215d05ad3f2f2c2323fe8738b4527d51f1ed6d9947",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:356.77130126953125,294.9986572265625,679.3851928710938,602.6912231445312"
+      },
+      "id": "129cbaec"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "af38d808"
+  }
+]
