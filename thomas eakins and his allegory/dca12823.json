@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This gesture was sketched from life as Eakins observed the original Allegory of the Schuylkill River. He captured details he found meaningful, such as the bittern, up-done hair, and the contours of her legs through her feathered dress. He would use this pose to project Rush's model in his paintings. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/dca12823445d09429e0b0540f9294e999576a18c96f0889822b1122dafd77024",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:92.47607421875,119.61122131347656,381.0713195800781,323.67189025878906"
+      },
+      "id": "dca12823"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "12937eb9"
+  }
+]
