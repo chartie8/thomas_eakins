@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Rush is painted with far greater detail, as the entire painting seems much more complete, with a similar lighting scheme and the iconic furrowed brow.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/5ea3ff0837e1641055ca479aa504671499775a6fc3e699fd5c4d4e63a0c77ce7",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:57.0413932800293,599.387939453125,382.2047920227051,375.4189453125"
+      },
+      "id": "5ea3ff08"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7d3dba58"
+  }
+]
