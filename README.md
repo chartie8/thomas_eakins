@@ -1,5 +1,5 @@
 .ve-header "Thomas Eakins and His Allegory" wc:Water_Nymph_%26_Bittern_Wallace_1930s.jpg
-Thomas Eakins (1844-1916) is an American late ninetheenth century painter and photographer. In 1876, Eakins painted a portrait of American sculptor William Rush (1756-1833) observing a model as he carves his *Water Nymph and Bittern,* shown below.  
+Thomas Eakins (1844-1916) is an American late ninetheenth century painter and photographer. In 1876, Eakins painted a portrait of American sculptor William Rush (1756-1833) observing a model as he carves his *Allegorical Figure of the Schuylkill River,* shown below.  
 
 .ve-media wc:Thomas_Eakins_-_William_Rush_Carving_His_Allegorical_Figure_of_the_Schuylkill_River,_Study_-_1979.14.5_-_Yale_University_Art_Gallery.jpg
     
@@ -13,11 +13,11 @@ As a painter, Thomas Eakins is known for his skillful realism and thoughtful sto
 
 .ve-media wc:Water_Nymph_%26_Bittern_Wallace_1930s.jpg left 
 
-Rush's *Water Nymph and Bittern,* originally carved in 1825, was one of many monumental sculptures produced for the Fairmount Water Works.  
+Rush's *Allegorical Figure of the Schuylkill River* (also known as *Water Nymph and Bittern*), originally carved in 1825, was one of many monumental sculptures produced for the Fairmount Water Works.  
 
 .ve-media wc:Eakins_G109_Nymph_With_Bittern.jpg right 
 
-Curiously, Thomas Eakins produced many paintings and sketches of William Rush's *allegory of the Schuylkill River,* including the sculptor and his model, so it seems evident Rush and his work made a significant impact on Eakins. This sketch to the right shows a gesture drawing of the Nymph and Bittern sculpture from life.    
+Curiously, Thomas Eakins produced many paintings and sketches of William Rush's *allegorical figure of the Schuylkill River,* including the sculptor and his model, so it seems evident Rush and his work made a significant impact on Eakins. This sketch to the right shows a gesture drawing of the Nymph and Bittern sculpture from life.    
 
 .ve-media wc:'Self-portrait',_terracotta_sculpture_by_William_Rush,_1822.JPG left
 
