@@ -24,9 +24,9 @@ Curiously, Thomas Eakins produced many paintings and sketches of William Rush's 
 This terra cotta self portrait of William Rush, now at the Pennsylvania Academy of Fine Arts, was carved in 1822. There are other busts of Rush with a similar furrowed brow, an expression of concentration, which Eakins certainly applied to his own portrait of Rush as he is busy mid-sculpting, as annotated in both paintings. 
 
 ANNOTATIONS
-(First painting, annotating William Rush's figure) William Rush is shrouded in darkness and painterly detail, in contrast with the detail and light in the rest of the painting. We can just make out the focused expression of a sculptor at work. 
+(First painting, annotating William Rush's figure) William Rush is shrouded in darkness and painterly detail, in contrast with the detail of the model and the woman sitting to her right. We can just make out the focused expression of a sculptor at work. 
 
-(Second painting, annotating Rush's figure) Rush is painted with far more detail, with a similar lighting scheme and the signature furrowed brow. 
+(Second painting, annotating Rush's figure) Rush is painted with far more detail, as the entire painting seems much more complete, with a similar lighting scheme and the iconic furrowed brow. 
 
 (The bronze sculpture) This bronze casting of the Nymph and Bittern sculpture sits in place of its original at the Fairmount Water Works. As it is an exact copy, we see what Eakins saw as he crafted his painting in his head.
 
