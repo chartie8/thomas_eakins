@@ -11,10 +11,10 @@ As a painter, Thomas Eakins is known for his skillful realism and thoughtful sto
 
 #Sketches From Life
 
-.ve-media wc:Eakins_G109_Nymph_With_Bittern.jpg left
+.ve-media wc:Water_Nymph_%26_Bittern_Wallace_1930s.jpg left 
 
-Curiously, Thomas Eakins produced many paintings and sketches of William Rush's *allegory of the Schuylkill River,* including the sculptor and his model, so it seems evident Rush and his work made a significant impact on Eakins. This sketch to the left shows a gesture drawing of the Nymph and Bittern sculpture from life.   
+Rush's Water Nymph and Bittern was originally carved in 1825 for the Fairmount Waterworks.  
 
-.ve-media wc:Water_Nymph_%26_Bittern_Wallace_1930s.jpg right
+.ve-media wc:Eakins_G109_Nymph_With_Bittern.jpg right 
 
-Rush's Water Nymph and Bittern was originally carved in 1825 for the Fairmount Waterworks. 
+Curiously, Thomas Eakins produced many paintings and sketches of William Rush's *allegory of the Schuylkill River,* including the sculptor and his model, so it seems evident Rush and his work made a significant impact on Eakins. This sketch to the right shows a gesture drawing of the Nymph and Bittern sculpture from life.    
