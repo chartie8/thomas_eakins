@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "William Rush is shrouded in darkness and painterly strokes, in contrast to the detail of the model and the woman sitting to her right. We can just make out the focused expression of a sculptor at work.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/8b8737a91bc2a8e2b5ceaf8ad37a4201076e7e2c1a0b57412439736606eb0d78",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:366.0854797363281,685.8865966796875,324.7073059082031,278.95257568359375"
+      },
+      "id": "8b8737a9"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2f394dae"
+  }
+]
