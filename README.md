@@ -29,8 +29,8 @@ ANNOTATIONS
 
 (Second painting, annotating Rush's figure) Rush is painted with far more detail, as the entire painting seems much more complete, with a similar lighting scheme and the iconic furrowed brow. 
 
-(The bronze sculpture) This bronze casting of the Nymph and Bittern sculpture sits in place of its original at the Fairmount Water Works. As it is an exact copy, we see what Eakins saw as he crafted his painting in his head.
+(The bronze sculpture) This bronze casting of the Nymph and Bittern sculpture sits in place of its original at the Fairmount Water Works. As it is an exact copy, we can see what Eakins saw as he crafted his painting in his head.
 
-(The sketch) This gesture was sketched from life as Eakins observed the original Allegory of the Schuylkill River. He captured details he found meaningful, such as the bittern, up-done hair, and the countours of her legs through her feathered dress. He would use this pose to project Rush's model in his paintings.
+(The sketch) This gesture was sketched from life as Eakins observed the original Allegory of the Schuylkill River. He captured details he found meaningful, such as the bittern, up-done hair, and the countours of her legs through her feathered dress. He would then use this pose to project Rush's model in his paintings.
 
 
