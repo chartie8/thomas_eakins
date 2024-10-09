@@ -21,7 +21,7 @@ Curiously, Thomas Eakins produced many paintings and sketches of William Rush's 
 
 .ve-media wc:'Self-portrait',_terracotta_sculpture_by_William_Rush,_1822.JPG left
 
-This terra cotta self portrait of William Rush, now at the Pennsylvania Academy of Fine Arts, was carved in 1822. There are other busts of Rush with a similar furrowed brow, an expression of concentration, which Eakins certainly applied to his own portrait of Rush as he is busy mid-sculpting, as seen in both paintings. 
+This terra cotta self portrait of William Rush, now at the Pennsylvania Academy of Fine Arts, was carved in 1822. There are other busts of Rush with a similar furrowed brow, an expression of concentration, which Eakins certainly applied to his own portrait of Rush as he is busy mid-sculpting, as annotated in both paintings. 
 
 
 
