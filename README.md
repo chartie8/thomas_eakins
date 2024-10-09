@@ -16,7 +16,7 @@ As a painter, Thomas Eakins is known for his skillful realism and thoughtful sto
 
 .ve-media wc:Water_Nymph_%26_Bittern_Wallace_1930s.jpg left 
 
-Rush's *Water Nymph and Bittern* was originally carved in 1825 for the Fairmount Waterworks.  
+Rush's *Water Nymph and Bittern,* originally carved in 1825, was one of many monumental sculptures produced for the Fairmount Water Works.  
 
 .ve-media wc:Eakins_G109_Nymph_With_Bittern.jpg right 
 
