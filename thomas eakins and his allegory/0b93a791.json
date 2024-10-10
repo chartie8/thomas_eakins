@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "A portrait bust of 1822 William Rush. A serious expression like this must convey a message that Thomas Eakins wanted to get across in his paintings of him carving his water nymph sculpture. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/0b93a791ac7203fc71694c7fceb047bb9f0bb02b1cdc69e61e8720204d15f6f0",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:643.3416137695312,220.9225616455078,987.5545043945312,957.0549774169922"
+      },
+      "id": "0b93a791"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ccacf941"
+  }
+]
