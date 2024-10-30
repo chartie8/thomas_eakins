@@ -25,7 +25,10 @@ This terra cotta self portrait of William Rush, now at the Pennsylvania Academy 
 
 #The Nude Model
 
-.ve-media https://iiif.archivelab.org/iiif/thomaseakinscoll00phil/manifest.json 
+.ve-media https://iiif.archivelab.org/iiif/thomaseakinscoll00phil/manifest.json seq=48 
+
+
+
 
 
 
