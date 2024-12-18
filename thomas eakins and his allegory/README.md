@@ -1,6 +1,6 @@
 .ve-header "Thomas Eakins and His Allegory" wc:Water_Nymph_%26_Bittern_Wallace_1930s.jpg
 
-Thomas Eakins (1844-1916) is an American late ninetheenth century painter and photographer. In 1876, Eakins painted a portrait of American sculptor William Rush (1756-1833) observing a model as he carves his *Allegorical Figure of the Schuylkill River,* shown below.  
+Thomas Eakins (1844-1916) is a late-ninetheenth century American realist painter and photographer. In 1876, Eakins painted a portrait of American sculptor William Rush (1756-1833) observing a model as he carves his *Allegorical Figure of the Schuylkill River,* shown below.  
 
 .ve-media wc:Thomas_Eakins_-_William_Rush_Carving_His_Allegorical_Figure_of_the_Schuylkill_River,_Study_-_1979.14.5_-_Yale_University_Art_Gallery.jpg
     
@@ -60,7 +60,7 @@ Lastly, a significant bone of contention for critics in the 1877 painting is the
 
 .ve-header "In Conclusion" wc:Eakin%27s_art_studens_bathing_2.jpg 
 
-Thomas Eakins was a late-nineteenth century American painter, photographer, student of human anatomy, and professor of drawing.[^5] As the focus of this essay, *William Rush Carving His Allegorical Figure of the Schuylkill River* (1877) is a complete representation of what he loved and stood for in art, skillfully communicated by his masterful compostion: the artist at work, the woman in quiet contemplation, and of course, the nude model. 
+Thomas Eakins was a late-nineteenth century American realist painter, photographer, student of human anatomy, and professor of drawing.[^5] As the focus of this essay, *William Rush Carving His Allegorical Figure of the Schuylkill River* (1877) is a complete representation of what he loved and stood for in art, skillfully communicated by his masterful compostion: the artist at work, the woman in quiet contemplation, and of course, the nude model. 
 
 
 
