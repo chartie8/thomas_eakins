@@ -46,7 +46,7 @@ In 1866, Thomas Eakins traveled abroad to France and enrolled at Ecole des Beaux
 
 In this 1889 painting, *The Agnew Clinic*,  Eakins portrays professor of surgery at the University of Pennsylvania School of Medicine, Dr. D. Hayes Agnew as he lectures to an auditorium of students. A female subject is shown undergoing a mastecotomy performed by a team of male surgeons. Beside her stands a nurse who maintains a calm and alert posture; she takes the role of the chaperone for the woman in her vulnerable state while an amphitheater full of men gaze at every detail of the procedure. While this is standard practice, the nurse's presence makes the viewer feel more comfortable on the patient's behalf.  
 
-The chaperone is also seen in both iterations of *William Rush Carving His Allegorical Figure of the Schuylkill River*. As Rush's model poses naked, the woman is seen knitting in the chair beside her. Much like *The Agnew Clinic*, the model's chaperone provides security and support for her. Also note how the seated woman displays Eakins' affinity for the woman lost in contemplative thought, much like in *Homespun*. 
+The chaperone is also seen in both iterations of *William Rush Carving His Allegorical Figure of the Schuylkill River*. As Rush's model poses naked, the woman is seen knitting in the chair beside her, providing security and support for her. Also note how the seated woman displays Eakins' affinity for the woman lost in contemplative thought, much like in *Homespun*. 
 
 After dissecting *William Rush Carving His Allegorical Figure of the Schuylkill River* and breaking it down into a tripartite of themes, what is Thomas Eakins' allegory here? This can possibly be answered by looking at a few sticking points some critics had with this piece--especially the final iteration of 1877. 
 
@@ -54,7 +54,9 @@ Notably, this is a historical painting which depicts a prominent late artist at 
 
 Apparently one criticism for this painting was the unattractiveness of the model, for the standards of the time anyway. Given Eakins' experience and exposure, this was likely intentional. Looking at the sculpture, it is virtually impossible to see what the nymph's body would look like under her draped clothing, so Eakins may have taken this opportunity to sculpt his own model, revealing what could possibly exist underneath the fabric folds. 
 
-A significant sticking point for critics is the way the model's clothing is displayed right at the foreground of the composition. It's been expressed that the way her garments are splayed over the chair "gives the shock which makes one think about the nudity - and at once the picture becomes improper!" I believe this one artistic decision ties the entire composition and all its themes up with a nice bow, as it communicates perfectly Eakins' admiration for the human body, which ought to be enthusiastically accessible to all students of art.  
+A significant bone of contention for critics in the 1877 painting is the way the model's clothing is displayed in the foreground of the composition. It's been expressed that the way her garments are splayed over the chair "gives the shock which makes one think about the nudity - and at once the picture becomes improper!" I believe this one artistic decision ties the entire composition and all its themes up with a nice bow, as it communicates perfectly Eakins' admiration for the human body and the eager model, which ought to be enthusiastically accessible to all students of art.
+
+
 
 
 
