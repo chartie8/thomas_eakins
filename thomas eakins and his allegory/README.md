@@ -18,7 +18,7 @@ Rush's *Allegorical Figure of the Schuylkill River* (also known as *Water Nymph 
 
 .ve-media wc:Eakins_G109_Nymph_With_Bittern.jpg right 
 
-Curiously, Thomas Eakins produced many paintings and sketches of William Rush's *allegorical figure of the Schuylkill River,* including the sculptor and his model, so it seems evident Rush and his work made a significant impact on Eakins. This sketch to the right shows a gesture drawing of the Nymph and Bittern sculpture from life.    
+Curiously, Thomas Eakins has produced a great amount of paintings and sketches of William Rush's *allegorical figure of the Schuylkill River,* including the sculptor and his model (many of which are accessible online), so it seems evident Rush and his work made a significant impact on Eakins. This sketch to the right shows a gesture drawing of the Nymph and Bittern sculpture from life.    
 
 .ve-media wc:'Self-portrait',_terracotta_sculpture_by_William_Rush,_1822.JPG left
 
