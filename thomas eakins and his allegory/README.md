@@ -8,7 +8,7 @@ One year later, he painted a second version, showing many of the same elements, 
 
 .ve-media wc:William_rush_carving_his_allegorical_figur_of_schuylkill_river_thomas_eakins.jpeg 
 
-As a painter, Thomas Eakins is known for his skillful realism and thoughtful storytelling. Throughout his professional career, Eakins worked from life, primarily with subjects from his hometown Philadelphia, PA. [^1] This essay will ask how he came to these paintings packed with detail and narrative when his subject matter, William Rush, had passed four decades before their conception; it will also explore the choices he made for some key differences between these two scenes painted one year apart.
+As a painter, Thomas Eakins is known for his skillful realism and thoughtful storytelling. Throughout his professional career, Eakins worked from life, primarily with subjects from his hometown Philadelphia, PA.[^1] This essay will ask how he came to these paintings packed with detail and narrative when his subject matter, William Rush, had passed four decades before their conception; it will also explore the choices he made for some key differences between these two scenes painted one year apart.
 
 #Sketched From Life
 
