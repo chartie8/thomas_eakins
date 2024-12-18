@@ -38,7 +38,7 @@ In 1866, Thomas Eakins traveled abroad to France and enrolled at Ecole des Beaux
 
 .ve-media wc:Thomas_Eakins_-_The_Oboe_Player.jpeg right
 
-*The Oboe Player* (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician and zoologist engaging in his favorite pastime, playing the oboe. While music is certainly an activity of leisure, Sharp played the oboe professionally with the Philadelphia Symphonic Society. *The Oboe Player* is representative of the individuals Eakins knew closely and admired, whom he enjoyed painting the most. 
+(1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician and zoologist engaging in his favorite pastime, playing the oboe. While music is certainly an activity of leisure, Sharp played the oboe professionally with the Philadelphia Symphonic Society. *The Oboe Player* is representative of the individuals Eakins knew closely and admired, whom he enjoyed painting the most. 
 
 #The Chaperone 
 
