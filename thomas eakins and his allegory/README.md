@@ -41,6 +41,10 @@ The Oboe Player (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician 
 
 His affinity for the nude model and the balance a man and a woman can bring into a single composition is what make up this impactful scene, painted largely from imagination. This tripartite is present in both iterations of William Rush carving his Water Nymph and Bittern. 
 
+#The Chaperone 
+
+
+
 
 
 
