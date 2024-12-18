@@ -1,6 +1,6 @@
 .ve-header "Thomas Eakins and His Allegory" wc:William_Rush_Carving_his_Allegorical_Figure_of_the_Schuylkill_River_G446.jpg
 
-Thomas Eakins (1844-1916) is a late-ninetheenth century American realist painter and photographer. In 1876, Eakins painted a portrait of American sculptor William Rush (1756-1833) observing a model as he carves his *Allegorical Figure of the Schuylkill River,* shown below.  
+Thomas Eakins (1844-1916) is a late-ninetheenth century American realist painter and photographer. In 1876, Eakins painted this portrait of American sculptor William Rush (1756-1833) observing a model as he carves his *Allegorical Figure of the Schuylkill River,* shown below.  
 
 .ve-media wc:Thomas_Eakins_-_William_Rush_Carving_His_Allegorical_Figure_of_the_Schuylkill_River,_Study_-_1979.14.5_-_Yale_University_Art_Gallery.jpg
     
