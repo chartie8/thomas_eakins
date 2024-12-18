@@ -38,7 +38,7 @@ Here, *Homespun* (1881) is a select example of Eakins’ gentle portrayal of the
 
 .ve-media wc:Thomas_Eakins_-_The_Oboe_Player.jpeg right
 
-Here, *The Oboe Player* (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician and zoologist engaging in his favorite pastime, playing the oboe. While music is certainly an activity of leisure, Sharp played the oboe professionally with the Philadelphia Symphonic Society. Here, *The Oboe Player* is representative of the individuals Eakins knew closely and admired, whom he enjoyed painting the most. 
+To the right, *The Oboe Player* (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician and zoologist engaging in his favorite pastime, playing the oboe. While music is certainly an activity of leisure, Sharp played the oboe professionally with the Philadelphia Symphonic Society. Eakins' *The Oboe Player* is representative of the individuals Eakins knew closely and admired, whom he enjoyed painting the most. 
 
 #The Chaperone 
 
