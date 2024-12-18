@@ -34,11 +34,11 @@ In 1866, Thomas Eakins traveled abroad to France and enrolled at Ecole des Beaux
 
 .ve-media wc:Homespun_MET_ap25.97.4.jpg left
 
-Homespun (1881) is a select example of Eakins’ gentle portrayal of the women he has painted from life. The activity of thread spinning is careful yet somewhat mindless, so this gives Eakins the opportunity to show a woman deep in contemplation while using her hands in a creative way.
+*Homespun* (1881) is a select example of Eakins’ gentle portrayal of the women he has painted from life. The activity of thread spinning is careful yet somewhat mindless, so this gives Eakins the opportunity to show a woman deep in contemplation while using her hands in a creative way.
 
 .ve-media wc:Thomas_Eakins_-_The_Oboe_Player.jpeg right
 
-The Oboe Player (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician and zoologist engaging in his favorite pastime, playing the oboe. While music is certainly an activity of leisure, Sharp played the oboe professionally with the Philadelphia Symphonic Society. The Oboe Player is representative of the individuals Eakins knew closely and admired, whom he enjoyed painting the most. 
+*The Oboe Player* (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician and zoologist engaging in his favorite pastime, playing the oboe. While music is certainly an activity of leisure, Sharp played the oboe professionally with the Philadelphia Symphonic Society. *The Oboe Player* is representative of the individuals Eakins knew closely and admired, whom he enjoyed painting the most. 
 
 #The Chaperone 
 
