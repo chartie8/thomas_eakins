@@ -56,7 +56,8 @@ Apparently one criticism for this painting was the unattractiveness of the model
 
 Lastly, a significant bone of contention for critics in the 1877 painting is the way the model's clothing is displayed in the foreground of the composition. It's been expressed that the way her garments are splayed over the chair "gives the shock which makes one think about the nudity - and at once the picture becomes improper!" I believe this one artistic decision ties the entire composition and all its themes up with a nice bow, as it communicates perfectly Eakins' admiration for the human body and the eager model, which ought to be enthusiastically accessible to all students of art.
 
-.ve-header "In Conclusion" wc:Thomas_Eakins_(American_-_Eakins%27s_Students_at_the_"The_Swimming_Hole"_-_Google_Art_Project.jpg
+.ve-header "Conclusion" wc:Thomas Eakins (American - Eakins's Students at the "The Swimming Hole" - Google Art Project.jpg
+
 
 Thomas Eakins was a late-nineteenth century American painter, photographer, student of human anatomy, and professor of drawing. 
 
