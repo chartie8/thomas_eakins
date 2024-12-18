@@ -58,7 +58,7 @@ Lastly, a significant bone of contention for critics in the 1877 painting is the
 
 .ve-header "In Conclusion" wc:Eakin's art studens bathing 2.jpg
 
-Thomas Eakins was a late-nineteenth century American painter, photographer, student of human anatomy, and professor of drawing. 
+Thomas Eakins was a late-nineteenth century American painter, photographer, student of human anatomy, and professor of drawing. As the focus of this essay, *William Rush Carving His Allegorical Figure of the Schuylkill River* is a complete representation of what he loves and stands for in art, skillfully communicated by his masterful compostion: the artist at work, the woman in quiet contemplation, and of course, the nude model. 
 
 
 
