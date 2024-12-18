@@ -43,7 +43,7 @@ The Oboe Player (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician 
 
 .ve-media wc:Eakins,_Thomas_-_The_Agnew_Clinic.jpg left
 
-This 1889 painting, *The Agnew Clinic*,  portrays Professor of Surgery at the University of Pennsylvania School of Medicine Dr. D. Hayes Agnew 
+This 1889 painting, *The Agnew Clinic*,  portrays Professor of Surgery at the University of Pennsylvania School of Medicine Dr. D. Hayes Agnew as he lectures to an auditorium of students. A female subject is shown undergoing a mastecotomy performed by a team of male surgeons. Beside her stands a nurse who maintains a calm and alert posture; she takes the role of the chaperone for the woman in this vulnerable state in an amphitheater full of men gazing at every detail of the procedure. While this is standard practice, the nurse's presence brings a sense of security for the viewer. 
 
 
 
