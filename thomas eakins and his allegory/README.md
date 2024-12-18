@@ -64,7 +64,7 @@ Thomas Eakins was a late-nineteenth century American painter, photographer, stud
 
 
 
-[^1] Thomas Eakins' Philadelphia. By: McCarthy, Cathleen, Art & Antiques, 01958208, Feb2007, Vol. 30, Issue 8
+[^1]: Thomas Eakins' Philadelphia. By: McCarthy, Cathleen, Art & Antiques, 01958208, Feb2007, Vol. 30, Issue 8
 
 
 
