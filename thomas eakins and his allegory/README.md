@@ -43,7 +43,7 @@ The Oboe Player (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician 
 
 .ve-media wc:Eakins,_Thomas_-_The_Agnew_Clinic.jpg left
 
-
+This 1889 painting, *The Agnew Clinic*,  portrays Professor of Surgery at the University of Pennsylvania School of Medicine Dr. D. Hayes Agnew 
 
 
 
