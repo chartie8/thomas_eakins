@@ -31,5 +31,5 @@ In 1866, Thomas Eakins went abroad to France to strengthen his skills in art and
 
 #Masculinity and Femininity in Composition
 
-.ve-media wc:Homespun_MET_ap25.97.4.jpg right
+.ve-media wc:Homespun_MET_ap25.97.4.jpg left
 
