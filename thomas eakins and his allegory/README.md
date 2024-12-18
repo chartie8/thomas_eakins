@@ -45,7 +45,9 @@ The Oboe Player (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician 
 
 This 1889 painting, *The Agnew Clinic*,  portrays Professor of Surgery at the University of Pennsylvania School of Medicine Dr. D. Hayes Agnew as he lectures to an auditorium of students. A female subject is shown undergoing a mastecotomy performed by a team of male surgeons. Beside her stands a nurse who maintains a calm and alert posture; she takes the role of the chaperone for the woman in this vulnerable state while an amphitheater full of men gaze at every detail of the procedure. While this is standard practice, the nurse's presence makes the viewer feel more secure on the patient's behalf.  
 
-The use of the chaperone is also seen in both iterations of *William Rush Carving His Allegorical Figure of the Schuylkill River*. As Rush's model poses naked, the woman is seen knitting in the chair beside her. Much like *The Agnew Clinic*, the model's chaperone provides security and support for her. 
+The use of the chaperone is also seen in both iterations of *William Rush Carving His Allegorical Figure of the Schuylkill River*. As Rush's model poses naked, the woman is seen knitting in the chair beside her. Much like *The Agnew Clinic*, the model's chaperone provides security and support for her. Also note how the seated woman displays Eakins' affinity for the woman lost in contemplative thought, much like *Homespun*. 
+
+
 
 
 
