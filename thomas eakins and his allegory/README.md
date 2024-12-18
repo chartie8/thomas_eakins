@@ -24,13 +24,13 @@ Curiously, Thomas Eakins produced many paintings and sketches of William Rush's 
 
 This terra cotta self portrait of William Rush, now at the Pennsylvania Academy of Fine Arts, was carved in 1822. There are other busts of Rush with a similar furrowed brow, an expression of concentration, which Eakins certainly applied to his own portrait of Rush as he raptly chisels away. 
 
-#The Nude Model
+#Eakins' Nude Model
 
 <iframe src="https://archive.org/embed/thomaseakinscoll00phil" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 In 1866, Thomas Eakins traveled abroad to France and enrolled at Ecole des Beaux-Arts in Paris to strengthen his skills in art. Here, he followed a rigid academic tradition, primarily focused on drawing. (*See page 48 in document above, "The Thomas Eakins Collection", Philladelphia Museum of Art.*) During these formative years in his education, nude models were readily accessible, which was invaluable to his skill in rendering the human body in dynamic ways. After spending some time in Spain, Eakins returned to Philadelphia in 1870 and found himself hard-pressed to find a nude model, let alone a female. By 1879, as a seasoned drawing professor, the necessity he saw in providing his students a nude model was so important to him that he stirred up a controversy for himself. After repeatedly bringing in fully nude models for his co-ed classes, the Pennsylvania Academy of Fine Arts forced him to resign in 1886. This experience strongly influences discussion on Eakins’ painting of *William Rush Carving His Allegorical Figure of the Schuylkill River* and understanding some context behind his choices in this painting and its multiple iterations, having been created near the height of his teaching career. 
 
-#Masculinity and Femininity
+#Eakins' Masculinity and Femininity
 
 .ve-media wc:Homespun_MET_ap25.97.4.jpg left
 
@@ -40,7 +40,7 @@ In 1866, Thomas Eakins traveled abroad to France and enrolled at Ecole des Beaux
 
 *The Oboe Player* (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician and zoologist engaging in his favorite pastime, playing the oboe. While music is certainly an activity of leisure, Sharp played the oboe professionally with the Philadelphia Symphonic Society. *The Oboe Player* is representative of the individuals Eakins knew closely and admired, whom he enjoyed painting the most. 
 
-#The Chaperone 
+#Eakins' Chaperone 
 
 .ve-media wc:Eakins,_Thomas_-_The_Agnew_Clinic.jpg left
 
