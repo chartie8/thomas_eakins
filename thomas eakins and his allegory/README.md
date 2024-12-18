@@ -28,7 +28,7 @@ This terra cotta self portrait of William Rush, now at the Pennsylvania Academy 
 
 <iframe src="https://archive.org/embed/thomaseakinscoll00phil" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
 
-In 1866, Thomas Eakins traveled abroad to France and enrolled at Ecole des Beaux-Arts in Paris to strengthen his skills in art. Here, he followed a rigid academic tradition, primarily focused on drawing. (*See page 48 in document above, "The Thomas Eakins Collection", Philladelphia Museum of Art.*) During these formative years in his education, nude models were readily accessible, which was invaluable to his skill in rendering the human body in dynamic ways. After spending some time in Spain, Eakins returned to Philadelphia in 1870 and found himself hard-pressed to find a nude model, let alone a female. By 1879, as a seasoned drawing professor, the necessity he saw in providing his students a nude model was so important to him that he stirred up a controversy for himself. After repeatedly bringing in fully nude models for his co-ed classes, the Pennsylvania Academy of Fine Arts forced him to resign in 1886. This experience strongly influences discussion on Eakins’ painting of *William Rush Carving His Allegorical Figure of the Schuylkill River* and understanding some context behind his choices in this painting and its multiple iterations, having been created near the height of his teaching career. 
+In 1866, Thomas Eakins traveled abroad to France and enrolled at Ecole des Beaux-Arts in Paris to strengthen his skills in art. Here, he followed a rigid academic tradition, primarily focused on drawing. (*See page 48 in document above, "The Thomas Eakins Collection", Philladelphia Museum of Art.*) During these formative years in his education, nude models were readily accessible, which was invaluable to his skill in rendering the human body in dynamic ways.[^2] After spending some time in Spain, Eakins returned to Philadelphia in 1870 and found himself hard-pressed to find a nude model, let alone a female. By 1879, as a seasoned drawing professor, the necessity he saw in providing his students a nude model was so important to him that he stirred up a controversy for himself. After repeatedly bringing in fully nude models for his co-ed classes, the Pennsylvania Academy of Fine Arts forced him to resign in 1886. This experience strongly influences discussion on Eakins’ painting of *William Rush Carving His Allegorical Figure of the Schuylkill River* and understanding some context behind his choices in this painting and its multiple iterations, having been created near the height of his teaching career. 
 
 #Masculinity and Femininity
 
@@ -44,11 +44,11 @@ In 1866, Thomas Eakins traveled abroad to France and enrolled at Ecole des Beaux
 
 .ve-media wc:Eakins,_Thomas_-_The_Agnew_Clinic.jpg left
 
-In this 1889 painting, *The Agnew Clinic*,  Eakins portrays professor of surgery at the University of Pennsylvania School of Medicine, Dr. D. Hayes Agnew as he lectures to an auditorium of students. A female subject is shown undergoing a mastecotomy performed by a team of male surgeons. Beside her stands a nurse who maintains a calm and alert posture; she takes the role of the chaperone for the woman in her vulnerable state while an amphitheater full of men gaze at every detail of the procedure. While this is standard practice, the nurse's presence makes the viewer feel more comfortable on the patient's behalf.  
+In this 1889 painting, *The Agnew Clinic*,  Eakins portrays professor of surgery at the University of Pennsylvania School of Medicine, Dr. D. Hayes Agnew as he lectures to an auditorium of students.[^3] A female subject is shown undergoing a mastecotomy performed by a team of male surgeons. Beside her stands a nurse who maintains a calm and alert posture; she takes the role of the chaperone for the woman in her vulnerable state while an amphitheater full of men gaze at every detail of the procedure. While this is standard practice, the nurse's presence makes the viewer feel more comfortable on the patient's behalf.  
 
 The chaperone is also seen in both iterations of *William Rush Carving His Allegorical Figure of the Schuylkill River*. As Rush's model poses naked, the woman is seen knitting in the chair beside her, providing security and support for her. Also note how the seated woman displays Eakins' affinity for the woman lost in contemplative thought, much like in *Homespun*. 
 
-After dissecting *William Rush Carving His Allegorical Figure of the Schuylkill River* and breaking it down into a tripartite of themes, what is Thomas Eakins' allegory here? This can possibly be answered by looking at a few sticking points some critics had with this piece--especially the final iteration of 1877. 
+After dissecting *William Rush Carving His Allegorical Figure of the Schuylkill River* and breaking it down into a tripartite of themes, what is Thomas Eakins' allegory here? This can possibly be answered by looking at a few sticking points some critics had with this piece--especially the final iteration of 1877.[^4]
 
 Notably, this is a historical painting which depicts a prominent late artist at work and, given the lack of models, largely came out of Eakins' imagination. That being said, it is unlikely that William Rush utilized a nude model to carve his water nymph and bittern sculpture, so it seems that Eakins imposed his own bias for the artful nude onto Rush's artistic process, Rush certainly not having anything to say about it.
 
@@ -58,15 +58,17 @@ Lastly, a significant bone of contention for critics in the 1877 painting is the
 
 .ve-header "In Conclusion" wc:Thomas Eakins (American - Eakins's Students at the "The Swimming Hole" - Google Art Project.jpg
 
-Thomas Eakins was a late-nineteenth century American painter, photographer, student of human anatomy, and professor of drawing. As the focus of this essay, *William Rush Carving His Allegorical Figure of the Schuylkill River* (1877) is a complete representation of what he loves and stands for in art, skillfully communicated by his masterful compostion: the artist at work, the woman in quiet contemplation, and of course, the nude model. 
+Thomas Eakins was a late-nineteenth century American painter, photographer, student of human anatomy, and professor of drawing.[^5] As the focus of this essay, *William Rush Carving His Allegorical Figure of the Schuylkill River* (1877) is a complete representation of what he loves and stands for in art, skillfully communicated by his masterful compostion: the artist at work, the woman in quiet contemplation, and of course, the nude model. 
 
 
 
 
 
-[^1]: Thomas Eakins' Philadelphia. By: McCarthy, Cathleen, Art & Antiques, 01958208, Feb2007, Vol. 30, Issue 8
-
-
+[^1]: Thomas Eakins' Philadelphia. By: McCarthy, Cathleen, Art & Antiques, 01958208, Feb2007, Vol. 30, Issue 8.
+[^2]: Thomas Eakins and the human écorché: understanding the body in three dimensions. Sculpture Journal; 2015, Vol. 24 Issue 3, p333-380, 18p.
+[^3]:Thomas Eakins and His Medical Clinics. Proceedings of the American Philosophical Society; March 2009, Vol. 153 Issue 1, p1-47, 47p.
+[^4]: Thomas Eakins: A Case For Reassessment. Arts Magazine (00044059); May79, Vol. 53 Issue 9, p130-133, 4p, 2 Black and White Photographs.
+[^5]: About a Man Who Did Not Care to be Written About: Portraits in Friendship of Thomas Eakins. Arts Magazine (00044059); May79, Vol. 53 Issue 9, p96-99, 4p, 7 Black and White Photographs.
 
 
 
