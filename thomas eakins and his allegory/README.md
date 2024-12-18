@@ -34,11 +34,11 @@ In 1866, Thomas Eakins traveled abroad to France and enrolled at Ecole des Beaux
 
 .ve-media wc:Homespun_MET_ap25.97.4.jpg left
 
-Homespun (1881) is a select example of Eakins’ gentle portrayal of the women he has painted from life. The activity of thread spinning is careful yet somewhat mindless, so this gives Eakins the opportunity to show a woman deep in contemplation while using her hands in a creative way.
+*Homespun* (1881) is a select example of Eakins’ gentle portrayal of the women he has painted from life. The activity of thread spinning is careful yet somewhat mindless, so this gives Eakins the opportunity to show a woman deep in contemplation while using her hands in a creative way.
 
 .ve-media wc:Thomas_Eakins_-_The_Oboe_Player.jpeg right
 
-The Oboe Player (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician and zoologist engaging in his favorite pastime, playing the oboe. While music is certainly an activity of leisure, Sharp played the oboe professionally with the Philadelphia Symphonic Society, later the Philadelphia Orchestra. The Oboe Player is representative of the individuals Eakins knew closely and admired, whom he enjoyed painting the most. 
+*The Oboe Player* (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician and zoologist engaging in his favorite pastime, playing the oboe. While music is certainly an activity of leisure, Sharp played the oboe professionally with the Philadelphia Symphonic Society. *The Oboe Player* is representative of the individuals Eakins knew closely and admired, whom he enjoyed painting the most. 
 
 #The Chaperone 
 
@@ -46,7 +46,7 @@ The Oboe Player (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician 
 
 In this 1889 painting, *The Agnew Clinic*,  Eakins portrays professor of surgery at the University of Pennsylvania School of Medicine, Dr. D. Hayes Agnew as he lectures to an auditorium of students. A female subject is shown undergoing a mastecotomy performed by a team of male surgeons. Beside her stands a nurse who maintains a calm and alert posture; she takes the role of the chaperone for the woman in her vulnerable state while an amphitheater full of men gaze at every detail of the procedure. While this is standard practice, the nurse's presence makes the viewer feel more comfortable on the patient's behalf.  
 
-The use of the chaperone is also seen in both iterations of *William Rush Carving His Allegorical Figure of the Schuylkill River*. As Rush's model poses naked, the woman is seen knitting in the chair beside her. Much like *The Agnew Clinic*, the model's chaperone provides security and support for her. Also note how the seated woman displays Eakins' affinity for the woman lost in contemplative thought, much like *Homespun*. 
+The chaperone is also seen in both iterations of *William Rush Carving His Allegorical Figure of the Schuylkill River*. As Rush's model poses naked, the woman is seen knitting in the chair beside her. Much like *The Agnew Clinic*, the model's chaperone provides security and support for her. Also note how the seated woman displays Eakins' affinity for the woman lost in contemplative thought, much like *Homespun*. 
 
 
 
