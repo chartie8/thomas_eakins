@@ -43,7 +43,7 @@ His affinity for the nude model and the balance a man and a woman can bring into
 
 #The Chaperone 
 
-.ve-media wc:Eakins,_Thomas_-_The_Agnew_Clinic.jpg
+.ve-media wc:Eakins,_Thomas_-_The_Agnew_Clinic.jpg left
 
 
 
