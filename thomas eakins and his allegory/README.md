@@ -54,7 +54,7 @@ Notably, this is a historical painting which depicts a prominent late artist at 
 
 Apparently one criticism for this painting was the unattractiveness of the model, for the standards of the time anyway. Given Eakins' experience and exposure, this was likely intentional. Looking at the sculpture, it is virtually impossible to see what the nymph's body would look like under her draped clothing, so Eakins may have taken this opportunity to sculpt his own model, revealing what could possibly exist underneath the fabric folds. 
 
-A significant sticking point for critics is the way the model's clothing is displayed right at the foreground of the composition. It's been expressed that the way her garments are splayed over the chair "gives the shock which makes one think about the nudity - and at once the picture becomes improper!" 
+A significant sticking point for critics is the way the model's clothing is displayed right at the foreground of the composition. It's been expressed that the way her garments are splayed over the chair "gives the shock which makes one think about the nudity - and at once the picture becomes improper!" I believe this one artistic decision ties the entire composition and all its themes up with a nice bow, as it communicates perfectly Eakins' admiration for the human body, which ought to be enthusiastically accessible to all students of art.  
 
 
 
