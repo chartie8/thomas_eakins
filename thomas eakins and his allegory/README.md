@@ -56,7 +56,7 @@ Apparently one criticism for this painting was the unattractiveness of the model
 
 Lastly, a significant bone of contention for critics in the 1877 painting is the way the model's clothing is displayed in the foreground of the composition. It's been expressed that the way her garments are splayed over the chair "gives the shock which makes one think about the nudity - and at once the picture becomes improper!" I believe this one artistic decision ties the entire composition and all its themes up with a nice bow, as it communicates perfectly Eakins' admiration for the human body and the eager model, which ought to be enthusiastically accessible to all students of art.
 
-.ve-media wc:Study for "Swimming" by Thomas Eakins.jpg
+.ve-header wc:Study_for_"Swimming"_by_Thomas_Eakins.jpg
 
 Thomas Eakins was a late-nineteenth century American painter, photographer, student of human anatomy, and professor of drawing.[^5] As the focus of this essay, *William Rush Carving His Allegorical Figure of the Schuylkill River* (1877) is a complete representation of what he loved and stood for in art, skillfully communicated by his masterful compostion: the artist at work, the woman in quiet contemplation, and of course, the nude model. 
 
