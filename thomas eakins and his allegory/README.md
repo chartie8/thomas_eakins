@@ -58,7 +58,7 @@ Lastly, a significant bone of contention for critics in the 1877 painting is the
 
 .ve-header "In Conclusion" wc:Thomas_Eakins_(American_-_Eakins%27s_Students_at_the_"The_Swimming_Hole"_-_Google_Art_Project.jpg
 
-Thomas Eakins was a late-nineteenth century American painter, photographer, student of human anatomy, and professor of drawing. His artwork displays scenes of 
+Thomas Eakins was a late-nineteenth century American painter, photographer, student of human anatomy, and professor of drawing. 
 
 
 
