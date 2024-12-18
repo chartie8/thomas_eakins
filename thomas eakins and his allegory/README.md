@@ -4,7 +4,7 @@ Thomas Eakins (1844-1916) is a late-ninetheenth century American realist painter
 
 .ve-media wc:Thomas_Eakins_-_William_Rush_Carving_His_Allegorical_Figure_of_the_Schuylkill_River,_Study_-_1979.14.5_-_Yale_University_Art_Gallery.jpg
     
-One year later, he painted a second version, showing many of the same elements, but very different in several ways. 
+One year later, he painted a second version, showing many of the same elements, but very different in several ways.
 
 .ve-media wc:William_rush_carving_his_allegorical_figur_of_schuylkill_river_thomas_eakins.jpeg 
 
