@@ -38,7 +38,7 @@ On the left, *The Oboe Player* (1903) is Eakins’ portrait of Dr. Benjamin Shar
 
 .ve-media wc:Homespun_MET_ap25.97.4.jpg right
 
-to the right, *Homespun* (1881) is a select example of Eakins’ gentle portrayal of the women he has painted from life. The activity of thread spinning is careful yet somewhat mindless, so this gives Eakins the opportunity to show a woman deep in contemplation while using her hands in a creative way.
+To the right, *Homespun* (1881) is a select example of Eakins’ gentle portrayal of the women he has painted from life. The activity of thread spinning is careful yet somewhat mindless, so this gives Eakins the opportunity to show a woman deep in contemplation while using her hands in a creative way.
 
 
 #The Chaperone 
