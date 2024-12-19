@@ -52,7 +52,7 @@ The chaperone is also seen in both iterations of *William Rush Carving His Alleg
 
 After dissecting *William Rush Carving His Allegorical Figure of the Schuylkill River* and breaking it down into a tripartite of themes, what is Thomas Eakins' allegory here? This can possibly be answered by looking at a few sticking points some critics had with this piece--especially the final iteration of 1877.[^4]
 
-Notably, this is a historical painting which depicts a prominent late artist at work that largely came out of Eakins' imagination. That being said, it is said to be unlikely that William Rush utilized a nude model to carve his water nymph and bittern sculpture, so it seems that Eakins imposed his own bias for the artful nude onto Rush's artistic process, Rush certainly not having anything to say about it.
+Notably, this is a historical painting which depicts a prominent late artist at work that largely came out of Eakins' imagination. At the same time, it is said to be unlikely that William Rush utilized a nude model to carve his water nymph and bittern sculpture, so it seems that Eakins imposed his own bias for the artful nude onto Rush's artistic process, Rush certainly not having anything to say about it.
 
 Apparently one criticism for this painting was the unattractiveness of the model, for the standards of the time anyway. Given Eakins' experience and exposure, this was likely intentional. Looking at the sculpture, the nymph's body is visible only through the smooth contours of her dress. Eakins may have taken this opportunity to sculpt his own model, revealing in greater detail the figure that exists underneath the contoured fabric, and leave less to the imagination. 
 
