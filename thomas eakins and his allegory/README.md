@@ -18,7 +18,7 @@ Rush's *Allegorical Figure of the Schuylkill River* (also known as *Water Nymph 
 
 .ve-media wc:Eakins_G109_Nymph_With_Bittern.jpg right 
 
-Curiously, Thomas Eakins has produced a great number of paintings and sketches of William Rush's *allegorical figure of the Schuylkill River,* including the sculptor and his model (many of which are accessible online), so it seems evident Rush and his work made a significant impact on Eakins. This sketch to the right shows a gesture drawing of the Nymph and Bittern sculpture from life.    
+Curiously, Thomas Eakins has produced a great amount of paintings and sketches of William Rush's *allegorical figure of the Schuylkill River,* including the sculptor and his model (many of which are accessible online), so it seems evident Rush and his work made a significant impact on Eakins. This sketch to the right shows a gesture drawing of the Nymph and Bittern sculpture from life.    
 
 .ve-media wc:'Self-portrait',_terracotta_sculpture_by_William_Rush,_1822.JPG left
 
@@ -32,14 +32,13 @@ In 1866, Thomas Eakins traveled abroad to France and enrolled at Ecole des Beaux
 
 #Masculinity and Femininity
 
-.ve-media wc:Thomas_Eakins_-_The_Oboe_Player.jpeg left
+.ve-media wc:Homespun_MET_ap25.97.4.jpg left
 
-On the left, *The Oboe Player* (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician and zoologist engaging in his favorite pastime, playing the oboe. While music is certainly an activity of leisure, Sharp played the oboe professionally with the Philadelphia Symphonic Society. Eakins' *The Oboe Player* is representative of the individuals Eakins knew closely and admired, whom he enjoyed painting the most. 
+Here, *Homespun* (1881) is a select example of Eakins’ gentle portrayal of the women he has painted from life. The activity of thread spinning is careful yet somewhat mindless, so this gives Eakins the opportunity to show a woman deep in contemplation while using her hands in a creative way.
 
-.ve-media wc:Homespun_MET_ap25.97.4.jpg right
+.ve-media wc:Thomas_Eakins_-_The_Oboe_Player.jpeg right
 
-To the right, *Homespun* (1881) is a select example of Eakins’ gentle portrayal of the women he has painted from life. The activity of thread spinning is careful yet somewhat mindless, so this gives Eakins the opportunity to show a woman deep in contemplation while using her hands in a creative way.
-
+To the right, *The Oboe Player* (1903) is Eakins’ portrait of Dr. Benjamin Sharp, a physician and zoologist engaging in his favorite pastime, playing the oboe. While music is certainly an activity of leisure, Sharp played the oboe professionally with the Philadelphia Symphonic Society. Eakins' *The Oboe Player* is representative of the individuals Eakins knew closely and admired, whom he enjoyed painting the most. 
 
 #The Chaperone 
 
@@ -49,11 +48,11 @@ In this 1889 painting, *The Agnew Clinic*,  Eakins portrays professor of surgery
 
 The chaperone is also seen in both iterations of *William Rush Carving His Allegorical Figure of the Schuylkill River*. As Rush's model poses naked, the woman is seen knitting in the chair beside her, providing security and support for her. Also note how the seated woman displays Eakins' affinity for the woman lost in contemplative thought, much like in *Homespun*. 
 
-#A Final Look
+#Another Look
 
 After dissecting *William Rush Carving His Allegorical Figure of the Schuylkill River* and breaking it down into a tripartite of themes, what is Thomas Eakins' allegory here? This can possibly be answered by looking at a few sticking points some critics had with this piece--especially the final iteration of 1877.[^4]
 
-Notably, this is a historical painting which depicts a prominent late artist at work and, given the lack of models, largely came out of Eakins' imagination. That being said, it is unlikely that William Rush utilized a nude model to carve his water nymph and bittern sculpture, so it seems that Eakins imposed his own bias for the artful nude onto Rush's artistic process, Rush certainly not having anything to say about it.
+Notably, this is a historical painting which depicts a prominent late artist at work that largely came out of Eakins' imagination. That being said, it is unlikely that William Rush utilized a nude model to carve his water nymph and bittern sculpture, so it seems that Eakins imposed his own bias for the artful nude onto Rush's artistic process, Rush certainly not having anything to say about it.
 
 Apparently one criticism for this painting was the unattractiveness of the model, for the standards of the time anyway. Given Eakins' experience and exposure, this was likely intentional. Looking at the sculpture, the nymph's body is visible only through the smooth contours of her dress. Eakins may have taken this opportunity to sculpt his own model, revealing in greater detail the figure that exists underneath the contoured fabric, and leave less to the imagination. 
 
