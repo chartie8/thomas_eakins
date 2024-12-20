@@ -48,7 +48,7 @@ In this 1889 painting, *The Agnew Clinic*,  Eakins portrays professor of surgery
 
 The chaperone is also seen in both iterations of *William Rush Carving His Allegorical Figure of the Schuylkill River*. As Rush's model poses naked, the woman is seen knitting in the chair beside her, providing security and support for her. Also note how the seated woman displays Eakins' affinity for the woman lost in contemplative thought, much like in *Homespun*. 
 
-#Another Look
+#A Final Look
 
 After dissecting *William Rush Carving His Allegorical Figure of the Schuylkill River* and breaking it down into a tripartite of themes, what is Thomas Eakins' allegory here? This can possibly be answered by looking at a few sticking points some critics had with this piece--especially the final iteration of 1877.[^4]
 
